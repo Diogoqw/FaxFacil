@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FaxFacil</string>
+    <string name="imgtodo">TODO</string>
+    <string name="login">Login</string>
+    <string name="btnlogin">Login</string>
+    <string name="n_o_tenho_cadastro">Não tenho cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="crie_sua_senha">Crie sua senha</string>
+    <string name="aceito_os_termos_de_uso">Aceito os termos de uso!</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="todo">TODO</string>
+    <string name="cadastra">Cadastrar</string>
+</resources>

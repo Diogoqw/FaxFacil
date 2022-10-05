@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914597982783",
+    "project_id": "faxfacil-be6ac",
+    "storage_bucket": "faxfacil-be6ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914597982783:android:cd1edd1d6d5263ee543e8a",
+        "android_client_info": {
+          "package_name": "com.example.faxfacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914597982783-v5po4ki6dd0m3o1nmi1ej8qrm38pva6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnINwpStBYCEWQFz4E4Tzum3XHJCx9S1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914597982783-v5po4ki6dd0m3o1nmi1ej8qrm38pva6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
